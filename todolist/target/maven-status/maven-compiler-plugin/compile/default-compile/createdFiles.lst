@@ -1,0 +1,11 @@
+br\com\lucasferreira\todolist\erros\ExceptionHandlerController.class
+br\com\lucasferreira\todolist\task\ITaskRepository.class
+br\com\lucasferreira\todolist\task\TaskModel.class
+br\com\lucasferreira\todolist\user\IUserRepository.class
+br\com\lucasferreira\todolist\task\TaskController.class
+br\com\lucasferreira\todolist\filter\FilterTaskAuth.class
+br\com\lucasferreira\todolist\utils\Utils.class
+br\com\lucasferreira\todolist\TodolistApplication.class
+br\com\lucasferreira\todolist\user\Column.class
+br\com\lucasferreira\todolist\user\UserController.class
+br\com\lucasferreira\todolist\user\UserModel.class
